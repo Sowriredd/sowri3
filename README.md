@@ -1,2 +1,2 @@
 # sowri3
-hello sowri
+print(hello sowri)
